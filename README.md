@@ -47,16 +47,16 @@ A simple, responsive Todo List application built with React and TypeScript, feat
 
 5. Open your browser and visit http://localhost:5173
 
-## Usage Guide
+## Usage Guide  
 
-Adding Tasks
--Type your task in the input field
--Press Enter or click the "+ Add" button
+### Adding Tasks  
+- Type your task in the input field  
+- Press Enter or click the "+ Add" button  
 
-Managing Tasks
--Complete: Click the checkbox
--Edit: Click the edit button or double-click the task you want to edit
--Delete: Click the delete button
+### Managing Tasks  
+- **Complete:** Click the checkbox  
+- **Edit:** Click the edit button or double-click the task you want to edit  
+- **Delete:** Click the delete button  
 
 ## Project Structure
 
