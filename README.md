@@ -2,7 +2,7 @@
 
 A simple, responsive Todo List application built with React and TypeScript, featuring persistent storage using localStorage
 
-## Features
+ ## Features
 
  -Add new tasks
  -Edit existing tasks
@@ -13,12 +13,12 @@ A simple, responsive Todo List application built with React and TypeScript, feat
  -Fully responsive design
  -Keyboard-friendly operations
 
-## Technologies Used
+ ## Technologies Used
 
  -React 18
  -TypeScript
  -CSS Modules for styling
--Font Awesome for icons
+ -Font Awesome for icons
  -localStorage for data persistence
 
 ## Add task
